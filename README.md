@@ -14,7 +14,7 @@ Navigation: [Website][1] | **Server repository** | [Client repository][2] | [Dex
 Introduction
 ------------------------------------------------------------------------
 
-This is the source code for the game server of [Impulse][4], a website for Pokémon battling. Pokémon Showdown simulates singles, doubles and triples battles in all the games out so far (Generations 1 through 7).
+This is the source code for the game server of [LightVoid][4], a website for Pokémon battling. Pokémon Showdown simulates singles, doubles and triples battles in all the games out so far (Generations 1 through 7).
 
 This repository contains the files needed to set up your own Pokémon Showdown server. Note that to set up a server, you'll also need a server computer.
 
@@ -37,13 +37,13 @@ Detailed installation instructions
 
 Pokémon Showdown requires you to have [Node.js][6] installed, 8.x or later (7.7 or later can work, but you might as well be on the latest stable).
 
-Next, obtain a copy of Pokémon Showdown Impulse. If you're reading this outside of GitHub, you've probably already done this. If you're reading this in GitHub, there's a "Clone or download" button near the top right (it's green). I recommend the "Open in Desktop" method - you need to install GitHub Desktop which is more work than "Download ZIP", but it makes it much easier to update in the long run (it lets you use the `/updateserver` command).
+Next, obtain a copy of Showdown-LightVoid. If you're reading this outside of GitHub, you've probably already done this. If you're reading this in GitHub, there's a "Clone or download" button near the top right (it's green). I recommend the "Open in Desktop" method - you need to install GitHub Desktop which is more work than "Download ZIP", but it makes it much easier to update in the long run (it lets you use the `/updateserver` command).
 
 Pokémon Showdown is installed and run using a command line. In Mac OS X, open `Terminal` (it's in Utilities). In Windows, open `Command Prompt` (type `cmd` into the Start menu and it should be the first result). Type this into the command line:
 
     cd LOCATION
 
-Replace `LOCATION` with the location Pokémon Showdown Impulse is in (ending up with, for instance, `cd "~/Downloads/Showdown-LightVoid"` or `cd "C:\Users\Bob\Downloads\Showdown-LightVoid\"`).
+Replace `LOCATION` with the location Showdown-LightVoid is in (ending up with, for instance, `cd "~/Downloads/Showdown-LightVoid"` or `cd "C:\Users\Bob\Downloads\Showdown-LightVoid\"`).
 
 This will set your command line's location to Showdown-LightVoid's folder. You'll have to do this each time you open a command line to run commands for Pokémon Showdown.
 

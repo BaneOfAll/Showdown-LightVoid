@@ -1,9 +1,9 @@
-Impulse Server @ Pokémon Showdown
+LightVoid Server @ Pokémon Showdown
 ========================================================================
 
 Navigation: [Website][1] | **Server repository** | [Client repository][2] | [Dex repository][3]
 
-  [1]: http://impulse.psim.us
+  [1]: http://lightvoid.psim.us
   [2]: https://github.com/Zarel/Pokemon-Showdown-Client
   [3]: https://github.com/Zarel/Pokemon-Showdown-Dex
 
@@ -20,7 +20,7 @@ This repository contains the files needed to set up your own Pokémon Showdown s
 
 You can use your own computer as a server, but for other people to connect to your computer, you'll need to expose a port (default is 8000 but you can choose a different one) to connect to, which sometimes requires [port forwarding][5]. Note that some internet providers don't let you host a server at all, in which case you'll have to rent a VPS to use as a server.
 
-  [4]: http://impulse.psim.us
+  [4]: http://lightvoid.psim.us
   [5]: http://en.wikipedia.org/wiki/Port_forwarding
 
 
@@ -43,9 +43,9 @@ Pokémon Showdown is installed and run using a command line. In Mac OS X, open `
 
     cd LOCATION
 
-Replace `LOCATION` with the location Pokémon Showdown Impulse is in (ending up with, for instance, `cd "~/Downloads/PokemonShowdown-Impulse"` or `cd "C:\Users\Bob\Downloads\PokemonShowdown-Impulse\"`).
+Replace `LOCATION` with the location Pokémon Showdown Impulse is in (ending up with, for instance, `cd "~/Downloads/Showdown-LightVoid"` or `cd "C:\Users\Bob\Downloads\Showdown-LightVoid\"`).
 
-This will set your command line's location to Pokémon Showdown-Impulse's folder. You'll have to do this each time you open a command line to run commands for Pokémon Showdown.
+This will set your command line's location to Showdown-LightVoid's folder. You'll have to do this each time you open a command line to run commands for Pokémon Showdown.
 
 Copy `config/config-example.js` into `config/config.js`, and edit as you please.
 
@@ -140,11 +140,11 @@ Maintainers
 
 Owner
 
-- FlamePrince-PS
+- Zeruora (Baneofall)
 
 Major Contributors
 
-**All respectable custom-plugins & SGgame creators.**
+**All respectable custom-plugins & game-cards creators.**
 
 
 Special thanks

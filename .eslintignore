@@ -1,0 +1,12 @@
+tournaments/lib/
+logs/
+dev-tools/globals.js
+node_modules/
+custom-plugins/shop-private.js
+custom-plugins/tictactoe.js
+custom-plugins/eShop.js
+custom-plugins/passthebomb.js
+users.js
+custom-plugins/profile.js
+custom-plugins/misc.js
+config/formats.js
